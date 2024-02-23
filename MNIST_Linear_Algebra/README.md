@@ -1,5 +1,5 @@
 
-![Logo](https://i.im.ge/2024/02/24/gAKjZD.waso.png)
+![Logo](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/424961189_3486299574847394_336702687462440976_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=V1iiqvdoY-kAX9eXJNW&_nc_ht=scontent.flyn1-1.fna&oh=00_AfCxRBprigIdFmTkH0ZsHmz45bCzlpwhE4JF-Tv_GAAIZw&oe=65DD5417)
 
 
 # linear Algebra
@@ -10,7 +10,7 @@ This project explores the application of Singular Value Decomposition (SVD), Pri
 Below is the directory structure:
 
 
-![App Screenshot](https://i.im.ge/2024/02/24/gAKeCX.Screenshot-from-2024-02-23-23-00-46.png)
+![App Screenshot](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/424932863_3486299951514023_1451982105073225357_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=VvN-FfIzijcAX_ICvnS&_nc_oc=AQlf_m5bTRuWB-t2c-ci4572U0NXZTXmYcgg5g712hy00ZNWixUa268zKv3XvI23hNIcrEPAgAlh1NABdJmUiKwK&_nc_ht=scontent.flyn1-1.fna&oh=00_AfASzE6Lc4QRKJh7TkWMcK9QGQJx3sXsHGPQ-6oGMueZvA&oe=65DDD40A)
 
 
 ### Singular Value Decomposition (SVD)
