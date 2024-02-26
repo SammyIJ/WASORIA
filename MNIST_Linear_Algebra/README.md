@@ -2,7 +2,7 @@
 ![Logo](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/424961189_3486299574847394_336702687462440976_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=V1iiqvdoY-kAX9eXJNW&_nc_ht=scontent.flyn1-1.fna&oh=00_AfCxRBprigIdFmTkH0ZsHmz45bCzlpwhE4JF-Tv_GAAIZw&oe=65DD5417)
 
 
-# linear Algebra
+# Linear Algebra
 ## Introduction
 
 This project explores the application of Singular Value Decomposition (SVD), Principal Component Analysis (PCA), and Pixel Intensity Sum (PIS) on the MNIST dataset. SVD and PCA are utilized for dimensionality reduction, providing insights into data compression and feature extraction. The project demonstrates how these techniques can significantly reduce the complexity of data while retaining essential features necessary for tasks like image reconstruction and classification. Additionally, PIS predictions via linear regression showcase the relationship between reduced dimensions and image characteristics. This comprehensive analysis not only highlights the effectiveness of SVD and PCA in handling high-dimensional data but also underscores the potential of simple linear models in making meaningful predictions from complex datasets.
