@@ -10,7 +10,7 @@ This project explores the application of Singular Value Decomposition (SVD), Pri
 Below is the directory structure:
 
 
-![App Screenshot](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/424932863_3486299951514023_1451982105073225357_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=VvN-FfIzijcAX_ICvnS&_nc_oc=AQlf_m5bTRuWB-t2c-ci4572U0NXZTXmYcgg5g712hy00ZNWixUa268zKv3XvI23hNIcrEPAgAlh1NABdJmUiKwK&_nc_ht=scontent.flyn1-1.fna&oh=00_AfASzE6Lc4QRKJh7TkWMcK9QGQJx3sXsHGPQ-6oGMueZvA&oe=65DDD40A)
+![App Screenshot](https://github.com/SammyIJ/WASORIA/blob/main/MNIST_Linear_Algebra/images/Screenshot%20from%202024-02-23%2023-00-46.png?raw=true)
 
 
 ### Singular Value Decomposition (SVD)
