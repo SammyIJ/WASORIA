@@ -1,5 +1,5 @@
 
-![Logo](https://scontent.flyn1-1.fna.fbcdn.net/v/t39.30808-6/424961189_3486299574847394_336702687462440976_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=3635dc&_nc_ohc=V1iiqvdoY-kAX9eXJNW&_nc_ht=scontent.flyn1-1.fna&oh=00_AfCxRBprigIdFmTkH0ZsHmz45bCzlpwhE4JF-Tv_GAAIZw&oe=65DD5417)
+![Logo](https://github.com/SammyIJ/WASORIA/blob/main/MNIST_Linear_Algebra/images/waso.png?raw=true)
 
 
 # Linear Algebra
